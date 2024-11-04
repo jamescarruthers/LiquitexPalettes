@@ -1,3 +1,6 @@
-# Liquitex Palettes for importing into various applications
+# Liquitex Palettes
+
+The .txt files are for importing into Rebelle
+
 
 
