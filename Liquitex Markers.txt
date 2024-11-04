@@ -1,0 +1,46 @@
+#FFF200 Cadmium Yellow Light Hue
+#FFE600 Yellow Medium Azo
+#FFD600 Cadmium Yellow Medium Hue
+#E4B64D Cadmium Yellow Deep Hue
+#D6A349 Cadmium Orange Hue
+#DD6B53 Cadmium Red Light Hue
+#BC1823 Cadmium Red Medium Hue
+#961F2B Naphthol Crimson
+#8A1A1F Cadmium Red Deep Hue
+#FF69B4 Light Portrait Pink
+#B82C6C Medium Magenta
+#4C3064 Brilliant Purple
+#2F1A45 Dioxazine Purple
+#1B2B50 Cobalt Blue Hue
+#14284B Phthalocyanine Blue
+#1A2C4A Primary Blue
+#1E5B99 Cerulean Blue Hue
+#3F99CC Light Blue Permanent
+#008D97 Bright Aqua Green
+#004D3C Phthalocyanine Green
+#0A4A33 Hooker's Green Hue Permanent
+#48A377 Light Green Permanent
+#8B5E3C Raw Sienna
+#6C3C35 Burnt Sienna
+#4C3B36 Raw Umber
+#E2D7C5 Unbleached Titanium
+#E6E3DC Parchment
+#FFFFFF Titanium White
+#808080 Neutral Gray 5
+#2C3543 Payne's Gray
+#212121 Carbon Black
+#1A1A1A Mars Black
+#F8F8F8 Iridescent White
+#9B9B9B Iridescent Rich Silver
+#BB8B41 Iridescent Bright Gold
+#A67C3C Iridescent Rich Gold
+#9F7B3D Iridescent Antique Gold
+#8B6E43 Iridescent Rich Bronze
+#955C45 Iridescent Rich Copper
+#B17267 Iridescent Rose Gold
+#FFE135 Fluorescent Yellow
+#FF7F27 Fluorescent Orange
+#FF4844 Fluorescent Red
+#FF48A4 Fluorescent Pink
+#00A4E4 Fluorescent Blue
+#4AC925 Fluorescent Green

@@ -1,0 +1,50 @@
+#FFF200 Cadmium-Free Yellow Light
+#FFE600 Primary Yellow
+#FFD600 Cadmium-Free Yellow Medium
+#E4B64D Cadmium-Free Yellow Deep
+#FFCBA4 Light Portrait Pink
+#FFDAB9 Peach
+#E17643 Cadmium-Free Orange
+#CB362D Cadmium-Free Red Light
+#FF2400 Scarlet
+#B42C2F Cadmium-Free Red Medium
+#DA4830 Primary Red
+#961F2B Cadmium-Free Red Deep
+#B82C6C Quinacridone Magenta
+#A41651 Medium Magenta
+#4C3064 Brilliant Purple
+#362A52 Prism Violet
+#2F1A45 Dioxazine Purple
+#1A2C4A Prussian Blue Hue
+#14284B Phthalocyanine Blue
+#1B2B50 Ultramarine Blue Red Shade
+#1A2C64 Primary Blue
+#1E5B99 Cerulean Blue Hue
+#87CEEB Sky Blue
+#3F99CC Light Blue Permanent
+#008D97 Bright Aqua Green
+#004D64 Turquoise Deep
+#006B5B Viridian Hue
+#00703C Emerald Green
+#0A4A33 Hooker's Green Hue Permanent
+#7FA153 Vivid Lime Green
+#C68642 Yellow Oxide
+#8B5E3C Raw Sienna
+#8E3C2F Red Oxide
+#6C3C35 Burnt Sienna
+#4C3B36 Raw Umber
+#654321 Burnt Umber
+#808080 Neutral Gray 5
+#4D4D4D Neutral Gray 7
+#E2D7C5 Unbleached Titanium
+#FFFFFF Titanium White
+#212121 Ivory Black
+#1A1A1A Mars Black
+#CFB53B Iridescent Bright Gold
+#E5E5E5 Iridescent Bright Silver
+#4AC925 Fluorescent Green
+#FFE135 Fluorescent Yellow
+#FF7F27 Fluorescent Orange
+#FF4844 Fluorescent Red
+#FF48A4 Fluorescent Opera Pink
+#FF00FF Fluorescent Violet

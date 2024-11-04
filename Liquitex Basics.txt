@@ -1,0 +1,72 @@
+#FFE600 Cadmium Yellow Light Hue
+#FFE135 Transparent Yellow 
+#FFD600 Primary Yellow
+#FFD600 Cadmium Yellow Medium Hue
+#E4B64D Cadmium Yellow Deep Hue
+#E86A45 Vivid Red Orange
+#DD6B53 Cadmium Orange Hue
+#BC1823 Cadmium Red Light Hue
+#B22E2F Cadmium Red Medium Hue
+#961F2B Pyrrole Red
+#B22E2F Naphthol Crimson
+#DA4830 Transparent Red
+#961F2B Cadmium Red Deep Hue
+#8A1A1F Alizarin Crimson Hue Permanent
+#DA4830 Primary Red
+#EECCC2 Light Portrait Pink
+#FFB6C1 Rose Pink
+#A41651 Medium Magenta
+#7B1B3B Quinacridone Magenta
+#4C3064 Brilliant Purple
+#3C1F4B Deep Violet
+#4C3064 Prism Violet
+#808080 Purple Gray
+#2F1A45 Dioxazine Purple
+#423A6F Light Blue Violet
+#1A2C4A Prussian Blue Hue
+#1B2B50 Ultramarine Blue
+#252C64 Cobalt Blue Hue
+#14284B Phthalocyanine Blue
+#1A2C64 Primary Blue
+#1E5B99 Cerulean Blue Hue
+#00A5C4 Brilliant Blue
+#3F99CC Light Blue Permanent
+#46B5DE Turquoise Blue
+#008D97 Bright Aqua Green
+#36454F Blue Gray
+#004D3C Phthalocyanine Green
+#0A4A33 Hooker's Green Hue Permanent
+#006B3F Permanent Green Deep
+#48A377 Light Green Permanent
+#90EE90 Light Olive Green
+#32CD32 Lime Green
+#9DC183 Brilliant Yellow Green
+#808080 Green Gray
+#CD7F32 Bronze Yellow
+#C68642 Yellow Oxide
+#D8B696 Naples Yellow Hue
+#8B4513 Raw Sienna
+#8B0000 Red Oxide
+#8B4513 Burnt Sienna
+#654321 Raw Umber
+#654321 Burnt Umber
+#E2D7C5 Unbleached Titanium
+#F5F5F5 Parchment
+#F9F9F7 Transparent Mixing White
+#FFFFFF Titanium White
+#808080 Neutral Gray 5
+#2C3543 Payne's Gray
+#212121 Ivory Black
+#1A1A1A Mars Black
+#F8F8F8 Iridescent White
+#A9A9A9 Iridescent Graphite
+#C0C0C0 Silver
+#CFB53B Gold
+#CD7F32 Bronze
+#B87333 Copper
+#FFE135 Fluorescent Yellow
+#FF7F27 Fluorescent Orange
+#FF4844 Fluorescent Red
+#FF48A4 Fluorescent Pink
+#00A4E4 Fluorescent Blue
+#4AC925 Fluorescent Green

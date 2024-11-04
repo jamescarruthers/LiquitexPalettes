@@ -1,0 +1,49 @@
+#FFF200 Cadmium Yellow Light Hue
+#FFE600 Yellow Medium Azo
+#FFD600 Cadmium Yellow Medium Hue
+#E4B64D Cadmium Yellow Deep Hue
+#D6A349 Yellow Orange Azo
+#DD6B53 Pyrrole Orange
+#E86A45 Vivid Red Orange
+#E17643 Cadmium-Free Orange
+#CB362D Cadmium Red Medium
+#B1272D Pyrrole Red
+#AF1E27 Quinacridone Red
+#98202B Pyrrole Crimson
+#8A1A1F Alizarin Crimson Hue Permanent
+#961F2B Cadmium-Free Red Deep
+#3C1F4B Deep Violet
+#362A52 Prism Violet
+#423A6F Light Blue Violet
+#1E1F4A Indanthrene Blue
+#252C64 Cobalt Blue Hue
+#1C2C64 Cobalt Blue
+#1B2C5E Ultramarine Blue Red Shade
+#1E5B99 Cerulean Blue Hue
+#195EA3 Cerulean Blue
+#3F99CC Light Blue Permanent
+#007E7A Light Phthalocyanine Green
+#008D97 Bright Aqua Green
+#00756F Cobalt Teal
+#004D64 Turquoise Deep
+#006B5B Transparent Viridian Hue
+#0A4A33 Hooker's Green Hue Permanent
+#2B4A3E Sap Green Permanent
+#1E3B2F Chromium Oxide Green
+#988439 Green Gold
+#8B5E3C Raw Sienna
+#BE8942 Transparent Raw Sienna
+#8E3C2F Red Oxide
+#6C3C35 Burnt Sienna
+#4C3B36 Burnt Umber
+#E2D7C5 Unbleached Titanium
+#E6E3DC Parchment
+#FFFFFF Titanium White
+#F9F9F7 Transparent Mixing White
+#808080 Neutral Gray 5
+#666666 Neutral Gray 7
+#404040 Neutral Gray 8
+#2C3543 Payne's Gray
+#212121 Transparent Black
+#1A1A1A Carbon Black
+#F8F8F8 Iridescent White

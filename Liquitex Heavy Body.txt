@@ -1,0 +1,114 @@
+#F4EFB4 Light Bismuth Yellow
+#FFF200 Yellow Light Hansa
+#FFE600 Cadmium-Free Yellow Light
+#FFE01A Cadmium Yellow Light
+#FFD600 Yellow Medium Azo
+#FFD600 Cadmium-Free Yellow Medium
+#F4B332 Cadmium Yellow Medium
+#D6A349 Indian Yellow
+#FF4D00 Pyrrole Orange
+#FF4D00 Vivid Red Orange
+#E17643 Cadmium-Free Orange
+#FF4F00 Cadmium Orange
+#FFB347 Yellow Orange Azo
+#E4B64D Cadmium-Free Yellow Deep
+#DC143C Quinacridone Red-Orange
+#CB362D Cadmium-Free Red Light
+#FFB347 Transparent Orange
+#BB1918 Cadmium Red Light
+#DA4830 Naphthol Red Light
+#B22E2F Naphthol Crimson
+#B42C2F Cadmium-Free Red Medium
+#DC143C Quinacridone Crimson
+#FF0033 Pyrrole Red
+#FF0033 Quinacridone Red
+#DC143C Pyrrole Crimson
+#B22222 Alizarin Crimson Hue Permanent
+#8B0000 Cadmium-Free Red Deep
+#FF0000 Cadmium Red Medium
+#EECCC2 Light Portrait Pink
+#A41651 Medium Magenta
+#7B1B3B Deep Magenta
+#B82C6C Quinacridone Magenta
+#4C3064 Brilliant Purple
+#2F1A45 Dioxazine Purple
+#2E1A46 Quinacridone Blue Violet
+#4B0082 Deep Violet
+#483D8B Prism Violet
+#14284B Phthalocyanine Blue Red Shade
+#002E46 Indigo
+#0000CD Ultramarine Blue Green Shade
+#1A2C4A Prussian Blue Hue
+#003A59 Phthalocyanine Blue Green Shade
+#0047AB Cobalt Blue
+#0087B4 Brilliant Blue
+#00607C Manganese Blue Hue
+#B6B8F3 Light Blue Violet
+#4169E1 Cobalt Blue Hue
+#1E90FF Cerulean Blue Hue
+#00CED1 Turquoise Deep
+#00BFFF Cerulean Blue
+#ADD8E6 Light Blue Permanent
+#004735 Cobalt Green
+#004E4C Cobalt Turquoise
+#004D3C Phthalocyanine Green Blue Shade
+#004B2D Phthalocyanine Green Yellow Shade
+#00703C Emerald Green
+#004524 Green Deep Permanent
+#1E3B2C Viridian Hue Permanent
+#2F593D Light Green Permanent
+#90EE90 Light Phthalocyanine Green
+#00FFD1 Bright Aqua Green
+#008B8B Cobalt Teal
+#90EE90 Light Emerald Green
+#DAA520 Green Gold
+#00AD83 Transparent Viridian Hue
+#2E8B57 Hooker's Green Hue Permanent
+#006400 Hooker's Green Deep Hue Permanent
+#308014 Sap Green Permanent
+#1B4D3E Chromium Oxide Green
+#C68642 Yellow Oxide
+#7FA153 Vivid Lime Green
+#D8B696 Naples Yellow Hue
+#BED392 Brilliant Yellow Green
+#8C6E3C Bronze Yellow
+#BE8A42 Turner's Yellow
+#E2D7C5 Unbleached Titanium
+#E6E3DC Parchment
+#8B4513 Van Dyke Red
+#FFFFFF Titanium White
+#4C3B36 Raw Umber
+#F9F9F7 Transparent Mixing White
+#654321 Burnt Umber
+#8B4513 Transparent Burnt Umber
+#8B4513 Raw Sienna
+#D2B48C Transparent Raw Sienna
+#4E3F35 Transparent Raw Umber
+#8B0000 Red Oxide
+#8B4513 Transparent Burnt Sienna
+#8B4513 Burnt Sienna
+#9F7B3D Iridescent Antique Gold
+#8B6E43 Iridescent Rich Bronze
+#9B9B9B Iridescent Rich Silver
+#955C45 Iridescent Rich Copper
+#BB8B41 Iridescent Bright Gold
+#B17267 Iridescent Rose Gold
+#A67C3C Iridescent Rich Gold
+#FFFFFF Iridescent White
+#E6E6FA Iridescent Bright Silver
+#808080 Neutral Gray 5
+#000000 Ivory Black
+#000000 Iridescent Black
+#505050 Payne's Gray
+#000000 Mars Black
+#FFFF00 Fluorescent Yellow
+#FF4500 Fluorescent Orange
+#FF4844 Fluorescent Red
+#FF48A4 Fluorescent Pink
+#00A4E4 Fluorescent Blue
+#4AC925 Fluorescent Green
+#563C5C Muted Violet
+#FF69B4 Muted Pink
+#48D1CC Muted Turquoise
+#808080 Muted Grey
+#355E3B Muted Green
