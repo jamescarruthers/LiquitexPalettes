@@ -1,1 +1,1 @@
-# LiquitexPalettes
+# Liquitex Palettes for Rebelle
