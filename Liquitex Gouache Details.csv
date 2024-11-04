@@ -1,0 +1,51 @@
+hex,name,series,opacity,lightfastness,pigments
+#FFF200,Cadmium-Free Yellow Light,S2,Semi-Opaque,I,PY184
+#FFE600,Primary Yellow,S1,Semi-Opaque,I,PY74
+#FFD600,Cadmium-Free Yellow Medium,S2,Semi-Opaque,I,
+#E4B64D,Cadmium-Free Yellow Deep,S2,Opaque,I,
+#FFCBA4,Light Portrait Pink,S1,Opaque,I,PW6•PO73•PY83
+#FFDAB9,Peach,S1,Opaque,I,PO73•PY74•PW6
+#E17643,Cadmium-Free Orange,S2,Opaque,I,
+#CB362D,Cadmium-Free Red Light,S2,Opaque,I,
+#FF2400,Scarlet,S2,Opaque,I,PO73•PR112•PW6
+#B42C2F,Cadmium-Free Red Medium,S2,Opaque,I,PR170
+#DA4830,Primary Red,S1,Opaque,I,PV19
+#961F2B,Cadmium-Free Red Deep,S2,Opaque,II,
+#B82C6C,Quinacridone Magenta,S2,Semi-Opaque,I,PR122
+#A41651,Medium Magenta,S1,Opaque,I,PR122•PW6
+#4C3064,Brilliant Purple,S1,Semi-Opaque,II,PW6•PV23
+#362A52,Prism Violet,S2,Transparent,II,PR122•PV23•PW6
+#2F1A45,Dioxazine Purple,S1,Opaque,II,PV23
+#1A2C4A,Prussian Blue Hue,S1,Opaque,I,PB15:3•PV23•PBk7
+#14284B,Phthalocyanine Blue,S1,Transparent,I,PB15:3
+#1B2B50,Ultramarine Blue Red Shade,S1,Opaque,I,PB29
+#1A2C64,Primary Blue,S1,Transparent,I,PB15:1
+#1E5B99,Cerulean Blue Hue,S1,Opaque,I,PB15:3•PB29•PG7•PW6
+#87CEEB,Sky Blue,S1,Opaque,I,PB15:3•PG7•PW6
+#3F99CC,Light Blue Permanent,S1,Opaque,I,PB15:3•PG7•PW6
+#008D97,Bright Aqua Green,S1,Opaque,I,PB15:3•PG7•PW6
+#004D64,Turquoise Deep,S1,Transparent,I,PB15:3•PG7
+#006B5B,Viridian Hue,S1,Semi-Opaque,I,PY184•PB15:3
+#00703C,Emerald Green,S2,Opaque,I,PY184•PG7
+#0A4A33,Hooker's Green Hue Permanent,S2,Opaque,I,PY83•PG7
+#7FA153,Vivid Lime Green,S1,Opaque,I,PY184•PG7•PW6
+#C68642,Yellow Oxide,S2,Opaque,I,PY42•PW6
+#8B5E3C,Raw Sienna,S1,Opaque,I,PY184•PY42•PBr7•PW6
+#8E3C2F,Red Oxide,S1,Opaque,I,PY42•PR101
+#6C3C35,Burnt Sienna,S1,Opaque,I,PBr7•PR101
+#4C3B36,Raw Umber,S1,Opaque,I,PY184•PBr7•PW6
+#654321,Burnt Umber,S1,Opaque,I,PY184•PBr7•PW6
+#808080,Neutral Gray 5,S1,Opaque,I,PBk9•PBr7•PW6
+#4D4D4D,Neutral Gray 7,S1,Opaque,I,PBk9•PBr7•PW7•PW6
+#E2D7C5,Unbleached Titanium,S1,Opaque,I,PY42•PR101•PBk11•PW6
+#FFFFFF,Titanium White,S1,Opaque,I,PW6
+#212121,Ivory Black,S1,Opaque,I,PBk9
+#1A1A1A,Mars Black,S1,Opaque,I,PBk11
+#CFB53B,Iridescent Bright Gold,S2,Opaque,NR,
+#E5E5E5,Iridescent Bright Silver,S2,Opaque,NR,
+#4AC925,Fluorescent Green,S2,Semi-Opaque,NR,
+#FFE135,Fluorescent Yellow,S2,Semi-Opaque,NR,
+#FF7F27,Fluorescent Orange,S2,Semi-Opaque,NR,
+#FF4844,Fluorescent Red,S2,Semi-Opaque,NR,
+#FF48A4,Fluorescent Opera Pink,S2,Semi-Opaque,NR,
+#FF00FF,Fluorescent Violet,S2,Semi-Opaque,NR,

@@ -1,0 +1,115 @@
+hex,name,series,opacity,lightfastness,pigments
+#F4EFB4,Light Bismuth Yellow,S1,Semi-Opaque,I,PY184•PW6
+#FFF200,Yellow Light Hansa,S1,Transparent,II,PY3
+#FFE600,Cadmium-Free Yellow Light,S3,Opaque,I,
+#FFE01A,Cadmium Yellow Light,S3,Opaque,I,PY35
+#FFD600,Yellow Medium Azo,S2,Semi-Opaque,I,PY74
+#FFD600,Cadmium-Free Yellow Medium,S3,Opaque,I,
+#F4B332,Cadmium Yellow Medium,S3,Opaque,I,PY35
+#D6A349,Indian Yellow,S2,Transparent,I,PY139
+#FF4D00,Pyrrole Orange,S4,Opaque,NR,PO73
+#FF4D00,Vivid Red Orange,S3,Opaque,NR,PO73•PY139
+#E17643,Cadmium-Free Orange,S4,Opaque,I,
+#FF4F00,Cadmium Orange,S4,Opaque,I,P020
+#FFB347,Yellow Orange Azo,S2,Semi-Opaque,I,PY83
+#E4B64D,Cadmium-Free Yellow Deep,S3,Opaque,I,
+#DC143C,Quinacridone Red-Orange,S3,Transparent,I,
+#CB362D,Cadmium-Free Red Light,S5,Opaque,I,
+#FFB347,Transparent Orange,S2,Transparent,I,DPP
+#BB1918,Cadmium Red Light,S5,Opaque,I,PR108
+#DA4830,Naphthol Red Light,S2,Semi-Opaque,I,PR9
+#B22E2F,Naphthol Crimson,S2,Semi-Opaque,II,PR170
+#B42C2F,Cadmium-Free Red Medium,S5,Opaque,I,PR170
+#DC143C,Quinacridone Crimson,S3,Transparent,I,PV19
+#FF0033,Pyrrole Red,S4,Semi-Opaque,I,PR254
+#FF0033,Quinacridone Red,S3,Transparent,I,PR209
+#DC143C,Pyrrole Crimson,S4,Opaque,NR,PR264
+#B22222,Alizarin Crimson Hue Permanent,S2,Transparent,I,PR179•PR202
+#8B0000,Cadmium-Free Red Deep,S4,Opaque,I,
+#FF0000,Cadmium Red Medium,S5,Opaque,I,PR108
+#EECCC2,Light Portrait Pink,S1,Opaque,I,PR188•PO36•PW6
+#A41651,Medium Magenta,S1,Opaque,I,PR122•PW6
+#7B1B3B,Deep Magenta,S3,Opaque,I,PR122•PV19•PW6
+#B82C6C,Quinacridone Magenta,S3,Transparent,I,PR122
+#4C3064,Brilliant Purple,S1,Semi-Opaque,II,PV23 RS•PW6
+#2F1A45,Dioxazine Purple,S2,Transparent,II,PV23 RS
+#2E1A46,Quinacridone Blue Violet,S3,Transparent,I,PV19
+#4B0082,Deep Violet,S3,Opaque,I,PR122•PV19
+#483D8B,Prism Violet,S2,Transparent,II,PV23•PR122
+#14284B,Phthalocyanine Blue Red Shade,S2,Transparent,I,PB15:6
+#002E46,Indigo,S1,Transparent,I,PB15:1•PV19•PBk7
+#0000CD,Ultramarine Blue Green Shade,S1,Transparent,I,PB29
+#1A2C4A,Prussian Blue Hue,S2,Semi-Opaque,I,PB15:3•PV23•PBk7
+#003A59,Phthalocyanine Blue Green Shade,S1,Transparent,I,PB15
+#0047AB,Cobalt Blue,S4,Opaque,I,PB28
+#0087B4,Brilliant Blue,S1,Opaque,I,PB15:3•PG7•PW6
+#00607C,Manganese Blue Hue,S3,Opaque,I,PB15•PG7•PW6
+#B6B8F3,Light Blue Violet,S1,Opaque,I,PB29•PW6
+#4169E1,Cobalt Blue Hue,S1,Opaque,I,PB29•PW6
+#1E90FF,Cerulean Blue Hue,S2,Opaque,I,PB29•PG7•PW6•PB15:3
+#00CED1,Turquoise Deep,S2,Semi-Opaque,I,PB15:3•PG7
+#00BFFF,Cerulean Blue,S3,Opaque,I,PB36
+#ADD8E6,Light Blue Permanent,S1,Opaque,I,PB15•PG7•PW6
+#004735,Cobalt Green,S4,Opaque,II,PG50
+#004E4C,Cobalt Turquoise,S4,Opaque,I,PB36
+#004D3C,Phthalocyanine Green Blue Shade,S1,Transparent,I,PG7
+#004B2D,Phthalocyanine Green Yellow Shade,S1,Transparent,I,PG36
+#00703C,Emerald Green,S2,Opaque,I,PG7•PY97•PW6
+#004524,Green Deep Permanent,S2,Opaque,I,PG7•PW6•PY97
+#1E3B2C,Viridian Hue Permanent,S1,Opaque,I,PBr7•PG7
+#2F593D,Light Green Permanent,S2,Opaque,I,PG7•PY97•PW6
+#90EE90,Light Phthalocyanine Green,S1,Opaque,I,PG7•PW6
+#00FFD1,Bright Aqua Green,S1,Opaque,I,PG7•PB15•PW6
+#008B8B,Cobalt Teal,S4,Opaque,I,PG50
+#90EE90,Light Emerald Green,S3,Opaque,I,PG7•PY97•PW6
+#DAA520,Green Gold,S4,Semi-Opaque,NR,PY129
+#00AD83,Transparent Viridian Hue,S2,Transparent,I,PG7
+#2E8B57,Hooker's Green Hue Permanent,S1,Semi-Opaque,I,PG7•PY110
+#006400,Hooker's Green Deep Hue Permanent,S1,Semi-Opaque,I,PBk7•PG7•PY74
+#308014,Sap Green Permanent,S2,Transparent,I,PY139•PB15:3•PBk11
+#1B4D3E,Chromium Oxide Green,S2,Opaque,I,PG17
+#C68642,Yellow Oxide,S1,Opaque,I,PY42
+#7FA153,Vivid Lime Green,S1,Opaque,I,PY97•PG7•PW6
+#D8B696,Naples Yellow Hue,S2,Opaque,I,PBr24•PW6
+#BED392,Brilliant Yellow Green,S1,Semi-Opaque,II,PG7•PW6•PY3•PY97
+#8C6E3C,Bronze Yellow,S1,Opaque,I,PY42•PR101•PBk11
+#BE8A42,Turner's Yellow,S2,Semi-Opaque,II,PY3•PY42
+#E2D7C5,Unbleached Titanium,S1,Opaque,I,PW6•PY42•PR101•PBk11
+#E6E3DC,Parchment,S1,Opaque,I,PBk7•PG7•PW6•PY42
+#8B4513,Van Dyke Red,S2,Semi-Opaque,NR,PBr25
+#FFFFFF,Titanium White,S1,Opaque,I,PW6
+#4C3B36,Raw Umber,S1,Opaque,I,PBr7
+#F9F9F7,Transparent Mixing White,S1,Transparent,I,PW4
+#654321,Burnt Umber,S1,Opaque,I,PBr7
+#8B4513,Transparent Burnt Umber,S2,Transparent,I,PY42•PR101•PBk11
+#8B4513,Raw Sienna,S1,Opaque,I,PBr7
+#D2B48C,Transparent Raw Sienna,S3,Transparent,I,PY42
+#4E3F35,Transparent Raw Umber,S2,Transparent,I,PY42•PR101•PBk11
+#8B0000,Red Oxide,S1,Opaque,I,PR101
+#8B4513,Transparent Burnt Sienna,S3,Transparent,I,PR101
+#8B4513,Burnt Sienna,S1,Opaque,I,PBr7
+#9F7B3D,Iridescent Antique Gold,S2,Opaque,NR,
+#8B6E43,Iridescent Rich Bronze,S2,Opaque,NR,
+#9B9B9B,Iridescent Rich Silver,S2,Semi-Opaque,NR,
+#955C45,Iridescent Rich Copper,S2,Opaque,NR,
+#BB8B41,Iridescent Bright Gold,S2,Semi-Opaque,NR,
+#B17267,Iridescent Rose Gold,S2,Opaque,NR,
+#A67C3C,Iridescent Rich Gold,S2,Semi-Opaque,NR,
+#FFFFFF,Iridescent White,S2,Opaque,NR,
+#E6E6FA,Iridescent Bright Silver,S2,Transparent,NR,
+#808080,Neutral Gray 5,S1,Opaque,I,PBk9•PBr7•PW6
+#000000,Ivory Black,S1,Opaque,I,PBk9
+#000000,Iridescent Black,S2,Opaque,NR,
+#505050,Payne's Gray,S1,Semi-Opaque,I,PB29•PBk9•PV15
+#000000,Mars Black,S1,Opaque,I,PBk11
+#FFFF00,Fluorescent Yellow,S2,Opaque,NR,
+#FF4500,Fluorescent Orange,S2,Opaque,NR,
+#FF4844,Fluorescent Red,S2,Opaque,NR,
+#FF48A4,Fluorescent Pink,S2,Opaque,NR,
+#00A4E4,Fluorescent Blue,S2,Opaque,NR,
+#4AC925,Fluorescent Green,S2,Opaque,NR,
+#563C5C,Muted Violet,S3,Opaque,II,PB15:3•PR179•PV23
+#FF69B4,Muted Pink,S3,Opaque,II,PV23•PO36•PR122
+#48D1CC,Muted Turquoise,S3,Opaque,I,PB60•PG7
+#808080,Muted Grey,S3,Opaque,II,PV23•PY74•PB15:3
+#355E3B,Muted Green,S3,Opaque,II,PV23•PY74•PB15:3
