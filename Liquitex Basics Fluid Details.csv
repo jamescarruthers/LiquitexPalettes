@@ -1,0 +1,48 @@
+hex,name,series,opacity,lightfastness,pigments
+#FFF200,Cadmium Yellow Light Hue,S1,Semi-Opaque,I,PY3
+#FFE600,Primary Yellow,S1,Semi-Opaque,I,PY74
+#FFD600,Cadmium Yellow Medium Hue,S1,Semi-Opaque,I,PY74•PY83
+#E4B64D,Cadmium Yellow Deep Hue,S1,Semi-Opaque,I,PY65•PY74•PW6
+#E86A45,Vivid Red Orange,S1,Semi-Opaque,I,PO73•PY139
+#DD6B53,Cadmium Orange Hue,S1,Semi-Opaque,I,PO73
+#BC1823,Cadmium Red Medium Hue,S1,Semi-Opaque,I,PR170•PY74
+#B22E2F,Naphthol Crimson,S2,Semi-Opaque,II,PR170
+#961F2B,Cadmium Red Deep Hue,S1,Semi-Opaque,I,PR170•PV19
+#8A1A1F,Alizarin Crimson Hue Permanent,S2,Transparent,I,PR179•PR202
+#DA4830,Primary Red,S1,Semi-Opaque,I,PV19
+#EECCC2,Light Portrait Pink,S1,Opaque,I,PW6•PO36•PR188
+#A41651,Medium Magenta,S1,Opaque,I,PR122•PW6
+#7B1B3B,Quinacridone Magenta,S1,Semi-Opaque,I,PR122
+#4C3064,Brilliant Purple,S1,Semi-Opaque,II,PV23•PW6
+#2F1A45,Dioxazine Purple,S2,Transparent,II,PV23
+#423A6F,Light Blue Violet,S1,Opaque,I,PB29•PW6
+#1B2B50,Ultramarine Blue,S1,Transparent,I,PB29
+#14284B,Phthalocyanine Blue,S1,Transparent,I,PB15:3
+#1A2C4A,Primary Blue,S1,Transparent,I,PB15:3
+#1E5B99,Cerulean Blue Hue,S2,Opaque,I,PB15:3•PG7•PW6
+#3F99CC,Light Blue Permanent,S1,Opaque,I,PB15:3•PG7•PW6
+#008D97,Turquoise,S1,Opaque,I,PB15:3•PG7•PW6
+#007E7A,Bright Aqua Green,S1,Opaque,I,PG7•PB15•PW6
+#004D3C,Phthalocyanine Green,S1,Transparent,I,PG7
+#0A4A33,Hooker's Green Hue Permanent,S1,Semi-Opaque,I,PG7•PY110
+#48A377,Light Green Permanent,S2,Opaque,I,PG7•PY97•PW6
+#8B5E3C,Raw Sienna,S1,Opaque,I,PBr7
+#6C3C35,Burnt Sienna,S1,Opaque,I,PBr7
+#211E1F,Raw Umber,S1,Opaque,I,PBr7
+#E2D7C5,Unbleached Titanium,S1,Opaque,I,PW6•PY42•PR101•PBk11
+#E6E3DC,Transparent Mixing White,S1,Transparent,I,PW4
+#FFFFFF,Titanium White,S1,Opaque,I,PW6
+#808080,Neutral Gray 5,S1,Opaque,I,PBk9•PBr7•PW6
+#2C3543,Payne's Gray,S1,Semi-Opaque,I,PB29•PBk9•PV15
+#212121,Ivory Black,S1,Opaque,I,PBk9
+#1A1A1A,Mars Black,S1,Opaque,I,PBk11
+#F8F8F8,Iridescent White,S2,Opaque,NR,
+#9B9B9B,Iridescent Graphite,S2,Opaque,NR,
+#C0C0C0,Silver,S2,Opaque,NR,
+#D4AF37,Gold,S2,Semi-Opaque,NR,
+#FFE135,Fluorescent Yellow,S2,Transparent,NR,
+#FF7F27,Fluorescent Orange,S2,Transparent,NR,
+#FF4844,Fluorescent Red,S2,Transparent,NR,
+#FF48A4,Fluorescent Pink,S2,Transparent,NR,
+#00A4E4,Fluorescent Blue,S2,Transparent,NR,
+#4AC925,Fluorescent Green,S2,Transparent,NR,
