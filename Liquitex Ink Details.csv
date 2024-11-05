@@ -1,0 +1,51 @@
+hex,name,series,opacity,lightfastness,pigments
+#FFF200,Bismuth Yellow,S1,Opaque,I,PY184
+#FFE600,Cadmium Yellow Light Hue,S1,Transparent,I,PY138
+#FFD600,Yellow Medium Azo,S1,Transparent,I,PY74
+#E4B64D,Yellow Orange Azo,S1,Transparent,I,PY83
+#D6A349,Yellow Deep,S1,Transparent,I,PY74•PO67
+#D6A746,Yellow Orange,S1,Transparent,I,PY74•PO67
+#DD6B53,Bright Orange,S1,Transparent,I,PO73
+#E86A45,Vivid Red Orange,S1,Transparent,I,PR188
+#DA4830,Naphthol Red Light,S2,Semi-Opaque,I,PR112
+#B22E2F,Pyrrole Red,S4,Transparent,I,PR254
+#B22E2F,Naphthol Crimson,S2,Transparent,II,PR170
+#8B2631,Perylene Maroon,S1,Transparent,I,PR179
+#FF69B4,Rubine Red,S2,Semi-Opaque,II,PR184
+#B82C6C,Quinacridone Magenta,S3,Transparent,I,PR122
+#4C3064,Deep Violet,S3,Semi-Opaque,II,PR112•PV23 RS
+#2F1A45,Purple,S2,Transparent,II,PR122•PV23
+#362A52,Prism Violet,S2,Transparent,II,PV23•PR122
+#2E1A46,Dioxazine Purple,S2,Transparent,II,PV23 RS
+#14284B,Phthalocyanine Blue Red Shade,S2,Transparent,I,PB15:3•PV23
+#1A2C4A,Prussian Blue Hue,S2,Semi-Opaque,I,PB15:3•PV23 RS•PBk7
+#003A59,Phthalocyanine Blue Green Shade,S1,Transparent,I,PB15:3
+#1E5B99,Cerulean Blue Hue,S2,Opaque,I,PW6•PB15:3•PG7
+#3F99CC,Turquoise,S1,Transparent,I,PB15:3•PG7
+#006B5B,Turquoise Deep,S2,Semi-Opaque,I,PB15:3•PG7
+#004D3C,Phthalocyanine Green Blue Shade,S1,Transparent,I,PG7
+#004B2D,Phthalocyanine Green Yellow Shade,S1,Transparent,I,PG36
+#0A4A33,Hooker's Green Hue Permanent,S1,Semi-Opaque,I,PG7•PY110
+#2B4A3E,Sap Green Permanent,S2,Transparent,I,PY139•PB15:3•PBk11
+#7FA153,Vivid Lime Green,S1,Transparent,I,PY138•PG7
+#C68642,Yellow Oxide,S1,Opaque,I,PY42
+#BE8942,Transparent Raw Sienna,S3,Transparent,I,PY42
+#8E3C2F,Red Oxide,S1,Opaque,I,PR101
+#A65D45,Transparent Burnt Sienna,S3,Transparent,I,PR101
+#4E3F35,Transparent Burnt Umber,S2,Transparent,I,PR101•PBk7
+#654321,Transparent Raw Umber,S2,Transparent,I,PY42•PR101•PBk7
+#8B4513,Sepia,S1,Transparent,I,PR101•PR179•PBk7
+#FFFFFF,Titanium White,S1,Opaque,I,PW6
+#808080,Neutral Gray 5,S1,Opaque,I,PW6•PBk7
+#000000,Carbon Black,S1,Opaque,I,PBk7
+#4A2F4C,Muted Violet,S3,Opaque,II,PV23•PR122•PBk7
+#1F4E4F,Muted Turquoise,S3,Opaque,II,PV23•PB15:3•PG7•PBk7
+#945A77,Muted Pink,S3,Opaque,II,PY42•PR122•PV23
+#808080,Muted Grey,S3,Opaque,II,PY42•PB15:3•PV23
+#3F513F,Muted Green,S3,Opaque,II,PV23•PG36
+#FFE135,Fluorescent Yellow,S2,Semi-Opaque,NR,
+#FF7F27,Fluorescent Orange,S2,Semi-Opaque,NR,
+#FF4844,Fluorescent Red,S2,Semi-Opaque,NR,
+#FF48A4,Fluorescent Pink,S2,Semi-Opaque,NR,
+#00A4E4,Fluorescent Blue,S2,Semi-Opaque,NR,
+#4AC925,Fluorescent Green,S2,Semi-Opaque,NR,
